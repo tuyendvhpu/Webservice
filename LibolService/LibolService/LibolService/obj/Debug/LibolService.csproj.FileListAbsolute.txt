@@ -1,0 +1,5 @@
+E:\LibolService\LibolService\LibolService\bin\LibolService.dll
+E:\LibolService\LibolService\LibolService\bin\LibolService.pdb
+E:\LibolService\LibolService\LibolService\obj\Debug\ResolveAssemblyReference.cache
+E:\LibolService\LibolService\LibolService\obj\Debug\LibolService.dll
+E:\LibolService\LibolService\LibolService\obj\Debug\LibolService.pdb

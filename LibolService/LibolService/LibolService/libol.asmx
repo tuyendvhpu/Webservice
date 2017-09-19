@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="libol.asmx.cs" Class="LibolService.Service1" %>
